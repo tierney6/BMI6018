@@ -11,3 +11,5 @@ Here are the links for the following Assignments:
 - [Python notebook for generating code](https://github.com/tierney6/BMI6018/blob/main/Assignment1_gettingstarted/Assignment1_screenshot.ipynb)
 - [Screenshot](https://github.com/tierney6/BMI6018/blob/main/Assignment1_gettingstarted/Tierney_Osullivan_python_assign1_screenshot.png) 
 
+### Assignment 2: Simple Data Types
+- [Python notebook for generating code](https://github.com/tierney6/BMI6018/blob/main/Assignment2_SimpleDataTypes/Assignment2_SimpleDataTypes.ipynb)
